@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.linhhi.guru99.test.Guru99Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.53 s -- in com.linhhi.guru99.test.Guru99Test
